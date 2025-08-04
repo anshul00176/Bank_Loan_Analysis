@@ -29,6 +29,9 @@ A comprehensive Power BI dashboard was created to visualize the analysis results
    - **Monthly Total Amount Received (MTD):** $58.1M (MoM: 15.8%)
    - **Average Interest Rate:** 12.0% (MTD: 12.4%, MoM: 3.5%)
    - **Average Debt-to-Income (DTI) Ratio:** 13.3% (MTD: 13.7%, MoM: 2.7%)
+  
+   <img width="1284" height="719" alt="image" src="https://github.com/user-attachments/assets/299a10dd-70da-4fdd-b390-411f4c75c6a0" />
+
 
 2. **Good vs. Bad Loans Page**
    - **Good Loan Applications:** 33K
@@ -50,6 +53,9 @@ A comprehensive Power BI dashboard was created to visualize the analysis results
    - By Employee Length
    - By Purpose (e.g., debt consolidation, credit card, home improvement)
    - By Home Ownership (e.g., mortgage, rent)
+  
+   - <img width="1262" height="714" alt="image" src="https://github.com/user-attachments/assets/f9f5384f-683b-45a3-9122-9595c10c1e28" />
+
 
 5. **Detailed Loan Information**
    - Loan details including ID, purpose, home ownership, grade, sub-grade, issue date, funded amount, interest rate, installment, and amount received.
