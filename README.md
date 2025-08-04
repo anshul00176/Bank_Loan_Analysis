@@ -16,6 +16,9 @@ EDA was conducted using Python to uncover patterns, spot anomalies, and test hyp
 ### Power BI Dashboard
 A comprehensive Power BI dashboard was created to visualize the analysis results. This is a multi-page dashboard with navigation buttons for easy transition between pages. The dashboard includes the following key metrics and insights:
 
+<img width="1287" height="719" alt="image" src="https://github.com/user-attachments/assets/59e39905-cf52-4fc3-8f45-dd2428db08b1" />
+
+
 #### Dashboard Pages and Metrics
 1. **Summary Page**
    - **Total Loan Applications:** 38.6K
